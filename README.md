@@ -4,6 +4,10 @@
 
 I'm a freshman at Homestead High school, currently pursuing my passion of programming and computer science.
 
+## Skills
+
+- **java**: java
+
 
 ## Contact Me
 
