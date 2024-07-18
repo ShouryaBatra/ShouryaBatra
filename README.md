@@ -4,9 +4,16 @@
 
 I'm a freshman at Homestead High school, currently pursuing my passion of programming and computer science.
 
+Some hobbies I enjoy are coding, playing volleyball, and playing the Euphonium.
+
+
 ## Skills
 
-- **java**: java
+- **Java**: Strong foundation in Java object-oriented programming
+- **JavaScript**: Currently working on web development skills
+- **ReactJS**: Creating interactive user interfaces for web apps
+- **React Native**: Building mobile apps
+- **More!**: Exploring all kinds of technologies to expand my knowledge
 
 
 ## Contact Me
