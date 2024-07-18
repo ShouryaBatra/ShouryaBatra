@@ -9,6 +9,7 @@ Some hobbies I enjoy are coding, playing volleyball, and playing the Euphonium.
 
 ## Skills
 
+- **Python**: Started with programming with Python
 - **Java**: Strong foundation in Java object-oriented programming
 - **JavaScript**: Currently working on web development skills
 - **ReactJS**: Creating interactive user interfaces for web apps
