@@ -12,7 +12,7 @@ Some hobbies I enjoy are coding, playing volleyball, and playing the Euphonium.
 - **Python**: Started with programming with Python
 - **Java**: Strong foundation in Java object-oriented programming
 - **HTML + JavaScript**: Currently working on web development skills
-- **CSS**: Styling websites and creating animations
+- **CSS**: Styling apps and creating animations
 - **ReactJS**: Creating interactive user interfaces for web apps
 - **React Native**: Building mobile apps
 - **More!**: Exploring all kinds of technologies to expand my knowledge
