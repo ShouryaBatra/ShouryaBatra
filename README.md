@@ -19,7 +19,7 @@ Some hobbies I enjoy are coding, playing volleyball, and playing the Euphonium.
 
 
 ## Stats
-- ![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shouryabatra&theme=black-green)
+![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shouryabatra&theme=black-green)
 
 
 ## Contact Me
