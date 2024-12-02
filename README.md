@@ -1,4 +1,8 @@
-<h1 align ="center">Hi there, I'm Shourya Batra <img src=https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json alt="Animated Emoji"></h1>
+<h1 align ="center">Hi there, I'm Shourya Batra 
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture></h1>
 
 ## About Me
 
