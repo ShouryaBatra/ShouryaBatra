@@ -1,4 +1,4 @@
-<h1 align ="center">Hi there, I'm Shourya Batra 👋</h1>
+<h1 align ="center">Hi there, I'm Shourya Batra <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"></h1>
 
 ## About Me
 
