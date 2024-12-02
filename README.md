@@ -1,4 +1,4 @@
-<h1 align ="center">Hi there, I'm Shourya Batra 👋</h1>
+<h1 align ="center">Hi there, I'm Shourya Batra <img src=https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json alt="Animated Emoji"></h1>
 
 ## About Me
 
