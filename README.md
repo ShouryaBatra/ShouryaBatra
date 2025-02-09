@@ -11,7 +11,7 @@ Some hobbies I enjoy are coding, playing volleyball, and playing the Euphonium.
 
 - **ReactJS**: Aspiring web developer
 - **React Native**: Building mobile apps
-- **CSS**: Styling apps and creating animations
+- **CSS + TailwindCSS**: Styling apps and creating animations
 - **HTML + JavaScript**: Foundation in native HTML and JS
 - **Java**: Strong foundation in Java object-oriented programming
 - **Python**: Started with programming with Python
