@@ -1,4 +1,5 @@
-<h1>Hi there, I'm Shourya Batra 👋</h1>
+<h1>Hi there, I'm Shourya Batra 👋 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7500&pause=1000&color=F0FFFC&vCenter=true&random=true&width=435&lines=A+Fullstack+Developer;A+Musician;A+Boy+Scout;A+Programmer;A+Web+Developer;A+Designer;A+Mobile+Developer" alt="Typing SVG" /></a>
 
 ## About Me
 
