@@ -19,10 +19,6 @@ Some hobbies I enjoy are coding, playing volleyball, and playing the Euphonium.
 - **More!**: Exploring all kinds of technologies to expand my knowledge
 
 
-## Stats
-![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shouryabatra&theme=black-green)
-
-
 ## Contact Me
 
 shourya.batra at gmail.com
