@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a freshman at Homestead High school, currently pursuing my passion of programming and computer science.
+I'm a sophomore at Homestead High school, currently pursuing my passion of programming and computer science.
 
 Some hobbies I enjoy are coding, playing volleyball, and playing the Euphonium.
 
